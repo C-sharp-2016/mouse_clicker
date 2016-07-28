@@ -1,0 +1,9 @@
+E:\my project\c#\mouse_clicker\mouse_clicker\bin\Debug\mouse_clicker.exe.config
+E:\my project\c#\mouse_clicker\mouse_clicker\bin\Debug\mouse_clicker.exe
+E:\my project\c#\mouse_clicker\mouse_clicker\bin\Debug\mouse_clicker.pdb
+E:\my project\c#\mouse_clicker\mouse_clicker\obj\Debug\mouse_clicker.csprojResolveAssemblyReference.cache
+E:\my project\c#\mouse_clicker\mouse_clicker\obj\Debug\mouse_clicker.Form1.resources
+E:\my project\c#\mouse_clicker\mouse_clicker\obj\Debug\mouse_clicker.Properties.Resources.resources
+E:\my project\c#\mouse_clicker\mouse_clicker\obj\Debug\mouse_clicker.csproj.GenerateResource.Cache
+E:\my project\c#\mouse_clicker\mouse_clicker\obj\Debug\mouse_clicker.exe
+E:\my project\c#\mouse_clicker\mouse_clicker\obj\Debug\mouse_clicker.pdb
